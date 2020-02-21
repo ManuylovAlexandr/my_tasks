@@ -1,0 +1,10 @@
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\bin\Release\fractals.exe.config
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\bin\Release\fractals.exe
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\bin\Release\fractals.pdb
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\obj\Release\fractals.csprojAssemblyReference.cache
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\obj\Release\fractals.Form1.resources
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\obj\Release\fractals.Properties.Resources.resources
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\obj\Release\fractals.csproj.GenerateResource.cache
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\obj\Release\fractals.csproj.CoreCompileInputs.cache
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\obj\Release\fractals.exe
+C:\Users\Manura\Desktop\КДЗ прога проект\fractals\fractals\obj\Release\fractals.pdb

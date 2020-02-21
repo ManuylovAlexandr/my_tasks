@@ -1,0 +1,12 @@
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\bin\Debug\ControlHomework.exe.config
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\bin\Debug\ControlHomework.exe
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\bin\Debug\ControlHomework.pdb
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.csprojAssemblyReference.cache
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.Properties.Resources.resources
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.csproj.GenerateResource.cache
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.csproj.CoreCompileInputs.cache
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.exe
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.pdb
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.Form1.resources
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.Form2.resources
+C:\Users\Manura\Desktop\КДЗ\ControlHomework\obj\Debug\ControlHomework.Form3.resources
