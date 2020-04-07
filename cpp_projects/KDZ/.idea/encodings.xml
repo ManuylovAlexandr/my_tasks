@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DATA/file.shan" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/DATA/file.unshan" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/DATA/output.shan" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/DATA/output.txt" charset="windows-1251" />
+  </component>
+</project>

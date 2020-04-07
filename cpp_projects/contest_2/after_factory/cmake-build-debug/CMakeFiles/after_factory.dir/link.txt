@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/after_factory.dir/main.cpp.o  -o after_factory.exe -Wl,--out-implib,libafter_factory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/find_all_borders.dir/main.cpp.o  -o find_all_borders.exe -Wl,--out-implib,libfind_all_borders.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

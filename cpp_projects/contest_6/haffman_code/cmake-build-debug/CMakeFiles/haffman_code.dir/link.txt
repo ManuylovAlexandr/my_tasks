@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/haffman_code.dir/main.cpp.o  -o haffman_code.exe -Wl,--out-implib,libhaffman_code.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

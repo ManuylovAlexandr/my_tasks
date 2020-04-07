@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/algorithm_KMP.dir/main.cpp.o  -o algorithm_KMP.exe -Wl,--out-implib,libalgorithm_KMP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

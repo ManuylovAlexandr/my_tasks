@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Manura/CLionProjects/heap_sort/ReadWriter.h
+iostream
+-
+fstream
+-
+
+/cygdrive/c/Users/Manura/CLionProjects/heap_sort/main.cpp
+ReadWriter.h
+/cygdrive/c/Users/Manura/CLionProjects/heap_sort/ReadWriter.h
+

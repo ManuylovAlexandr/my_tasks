@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/DP5.dir/main.cpp.o  -o DP5.exe -Wl,--out-implib,libDP5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

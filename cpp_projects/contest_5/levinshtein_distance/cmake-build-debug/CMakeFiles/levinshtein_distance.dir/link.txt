@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/levinshtein_distance.dir/main.cpp.o  -o levinshtein_distance.exe -Wl,--out-implib,liblevinshtein_distance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

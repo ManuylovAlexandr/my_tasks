@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/damerau_livenshtein_distance.dir/main.cpp.o  -o damerau_livenshtein_distance.exe -Wl,--out-implib,libdamerau_livenshtein_distance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

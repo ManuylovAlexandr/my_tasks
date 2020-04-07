@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/DP2.dir/main.cpp.o  -o DP2.exe -Wl,--out-implib,libDP2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

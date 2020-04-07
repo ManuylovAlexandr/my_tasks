@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lz77_decoder.dir/main.cpp.o  -o lz77_decoder.exe -Wl,--out-implib,liblz77_decoder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
