@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/all_tasks.dir/main_D.cpp.o  -o all_tasks.exe -Wl,--out-implib,liball_tasks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

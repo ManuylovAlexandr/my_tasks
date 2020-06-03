@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Manura/CLionProjects/contest_12/task_B/Edge.h
+string
+-
+
+/cygdrive/c/Users/Manura/CLionProjects/contest_12/task_B/ReadWriter.h
+Edge.h
+/cygdrive/c/Users/Manura/CLionProjects/contest_12/task_B/Edge.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
+/cygdrive/c/Users/Manura/CLionProjects/contest_12/task_B/main.cpp
+ReadWriter.h
+/cygdrive/c/Users/Manura/CLionProjects/contest_12/task_B/ReadWriter.h
+

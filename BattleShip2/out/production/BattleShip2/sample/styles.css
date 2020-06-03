@@ -1,0 +1,40 @@
+.btn{
+    -fx-border-color: black;
+    -fx-max-height: 30px;
+    -fx-min-height: 30px;
+    -fx-max-width: 30px;
+    -fx-min-width: 30px;
+}
+
+#root{
+    -fx-padding: 25px;
+}
+
+.btn1 {
+    -fx-border-color: black;
+    -fx-max-height: 30px;
+    -fx-min-height: 30px;
+    -fx-max-width: 80px;
+    -fx-min-width: 80px;
+}
+
+.input {
+    -fx-max-height: 30px;
+    -fx-min-height: 30px;
+    -fx-max-width: 135px;
+    -fx-min-width: 135px;
+}
+
+.inform {
+    -fx-max-height: 330px;
+    -fx-min-height: 330px;
+    -fx-max-width: 228px;
+    -fx-min-width: 228px;
+}
+
+.log {
+    -fx-max-width: 618px;
+    -fx-min-width: 618px;
+    -fx-max-height: 170px;
+    -fx-min-height: 170px;
+}

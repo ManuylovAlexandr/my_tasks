@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/task_A.dir/main.cpp.o CMakeFiles/task_A.dir/ReadWriter.cpp.o  -o task_A.exe -Wl,--out-implib,libtask_A.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

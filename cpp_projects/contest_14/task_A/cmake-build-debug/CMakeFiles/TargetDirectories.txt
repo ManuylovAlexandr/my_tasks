@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Manura/CLionProjects/contest_14/all_tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Manura/CLionProjects/contest_14/all_tasks/cmake-build-debug/CMakeFiles/all_tasks.dir
+/cygdrive/c/Users/Manura/CLionProjects/contest_14/all_tasks/cmake-build-debug/CMakeFiles/edit_cache.dir

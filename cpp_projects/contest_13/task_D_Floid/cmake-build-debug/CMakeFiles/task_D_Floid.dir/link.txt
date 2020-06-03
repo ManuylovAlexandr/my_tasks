@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/task_D_Floid.dir/main.cpp.o  -o task_D_Floid.exe -Wl,--out-implib,libtask_D_Floid.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
