@@ -1,0 +1,47 @@
+
+.InputForm {
+    position: relative;
+    width: 460px;
+    margin: 0 auto;
+    height: 0;
+    top: 150px;
+}
+
+.SearchInput {
+    position: relative;
+    background: #FFFFFF;
+    border: 0;
+    width: 380px;
+    height: 33px;
+    padding-left: 5px;
+    border-radius: 4px;
+}
+
+.SearchInput:focus {
+    outline: none;
+}
+
+.SearchButton {
+    position: absolute;
+    outline: none;
+    border: black solid 1px;
+    order: 1;
+    margin: 0 0;
+    right: -5px;
+    width: 70px;
+    height: 33px;
+    font-size: 17px;
+    color: #dcdde2;
+    border-radius: 4px;
+    background-color: rgba(43, 42, 46, 0.53);
+}
+
+.Search {
+    display: inline-flex;
+    padding: 3px 3px 3px 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+    height: 33px;
+    width: 460px;
+    background-color: white;
+}

@@ -1,0 +1,13 @@
+.App {
+    display: grid;
+    height: 100vh;
+    width: 100%;
+    grid-template-rows: 2fr;
+    grid-template-areas: "content";
+    grid-template-columns: 100%;
+    grid-gap: 2vh;
+}
+
+/** {*/
+/*  outline: red solid 1px;*/
+/*}*/

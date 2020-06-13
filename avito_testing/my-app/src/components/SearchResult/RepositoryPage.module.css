@@ -1,0 +1,158 @@
+.Wrapper {
+    grid-area: content;
+    text-align: center;
+    min-width: 1200px;
+    min-height: 1100px;
+    height: auto;
+    background-color: rgb(237, 237, 237);
+}
+
+.Loading {
+    margin: 0 auto;
+    font-size: 30px;
+}
+
+.ToMainPageLink {
+    border-radius: 6px;
+    font-size: 30px;
+    float: right;
+    text-decoration: none;
+    color: black;
+}
+
+.ToMainPageLink:hover {
+    color: red;
+}
+
+.ReposBlock {
+    position: absolute;
+    top: 75px;
+    left: 275px;
+    background-color: white;
+    min-height: 230px;
+    height: auto;
+    width: 250px;
+    border-radius: 15px;
+}
+
+.reposText {
+    border-radius: 4px;
+    position: relative;
+    margin: 20px 15px 15px 30px;
+    display: inline-block;
+    float: left;
+}
+
+.Avatar {
+    border-radius: 4px;
+    position: relative;
+    margin: 20px auto 0;
+    height: 125px;
+    display: inline-block;
+}
+
+.Avatar:hover {
+    opacity: 0.5;
+}
+
+.AvatarLink {
+    margin: 0 auto;
+    position: relative;
+}
+
+.LinkToOwner {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    margin: 10px 10px auto;
+}
+
+.LinkToOwner:hover {
+    color: red;
+}
+
+.langItem {
+    margin: 20px 15px 15px 30px;
+}
+
+.langItemHeader {
+    margin: 20px 15px 15px 30px;
+    font-size: 17px;
+    color: rgba(8, 8, 8, 0.85)
+}
+
+.AuthorBlock {
+    position: absolute;
+    top: 75px;
+    left: 50px;
+    background-color: white;
+    min-height: 230px;
+    height: auto;
+    width: 200px;
+    border-radius: 15px;
+}
+
+.Langs {
+    position: absolute;
+    top: 75px;
+    right: 50px;
+    background-color: white;
+    min-height: 230px;
+    height: auto;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.Description {
+    position: absolute;
+    top: 75px;
+    right: 375px;
+    background-color: white;
+    min-height: 210px;
+    height: auto;
+    width: 450px;
+    border-radius: 15px;
+    padding-top: 20px;
+}
+
+.ContrsBlock {
+    position: absolute;
+    top: 350px;
+    left: 50px;
+    background-color: white;
+    min-height: 210px;
+    height: auto;
+    width: 800px;
+    border-radius: 15px;
+    padding-top: 20px;
+}
+
+.ContrAva {
+    height: 125px;
+    float: left;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.ContrAva:hover {
+    opacity: 0.5;
+}
+
+.ContrName {
+    font-size: 22px;
+}
+
+.ContrName:hover {
+    color: red;
+}
+
+.ContrLink {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    display: inline-block;
+    margin: 20px;
+}
