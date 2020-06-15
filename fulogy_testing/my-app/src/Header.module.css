@@ -1,0 +1,15 @@
+.Wrapper {
+    grid-area: header;
+    background-color: black;
+    height: 75px;
+    width: 100%;
+    min-width: 1200px;
+    font-family: inherit;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.Logo{
+    height: 75px;
+}

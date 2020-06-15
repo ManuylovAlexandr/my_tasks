@@ -1,0 +1,6 @@
+.Wrapper {
+    grid-area: content;
+    text-align: center;
+    min-width: 1200px;
+    min-height: 900px;
+}
