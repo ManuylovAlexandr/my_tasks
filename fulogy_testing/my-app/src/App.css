@@ -1,9 +1,10 @@
 .App {
-  display: grid;
-  height: 100%;
-  width: 100%;
-  grid-template-rows: 2fr;
-  grid-template-areas: "header" "content";
-  grid-template-columns: 100%;
-  grid-gap: 2vh;
+    height: 100%;
+    min-height: 500px;
+    width: 100%;
+    min-width: 1200px;
 }
+
+/** {*/
+/*   outline: 1px solid red;*/
+/* }*/

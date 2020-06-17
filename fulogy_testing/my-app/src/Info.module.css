@@ -1,0 +1,19 @@
+.Info {
+    top: 11%;
+    height: 75%;
+    width: 100%;
+    position: absolute;
+    background-color: white;
+    z-index: 10;
+}
+
+.Back{
+    color: #c3c4c3;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.Text{
+    margin-left: 30px;
+    margin-top: 15px;
+}

@@ -1,10 +1,8 @@
 .Wrapper {
-    grid-area: header;
     background-color: black;
-    height: 75px;
+    height: 10%;
     width: 100%;
     min-width: 1200px;
-    font-family: inherit;
     position: sticky;
     top: 0;
     z-index: 10;
@@ -12,4 +10,55 @@
 
 .Logo{
     height: 75px;
+    margin-left: 20px;
+}
+
+.DDMenu{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 75px;
+}
+
+.MenuHead{
+    float: right;
+    position: relative;
+    height: 75px;
+    right: 20px;
+}
+
+.MenuHead:hover{
+    opacity: 0.5;
+}
+
+.MenuBody{
+    background-color: black;
+    color: white;
+    width: 400px;
+    top: 0;
+    float: right;
+    position: relative;
+}
+
+.MenuItem{
+    height: 74px;
+    text-align: center;
+    display:table;
+    width: 400px;
+}
+
+.MenuItem:hover{
+    opacity: 0.5;
+}
+
+.MenuItemText{
+    display:table-cell;
+    vertical-align: middle;
+}
+
+.Separator{
+    border: none;
+    border-top: 2px solid rgba(128, 128, 128, 0.1);
+    background-color: rgba(128, 128, 128, 0.35);
+    margin: 0 auto;
 }

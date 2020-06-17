@@ -1,0 +1,27 @@
+.Wrapper {
+    background-color: rgb(237, 238, 237);
+    height: 10%;
+    width: 100%;
+    min-height: 80px;
+    min-width: 1200px;
+    position: relative;
+    border-top: 2px solid rgba(128, 128, 128, 0.3);
+}
+
+.Items {
+    margin: 0 auto;
+    width: auto;
+    display: table;
+}
+
+.Item {
+    text-align: center;
+    display: table-cell;
+    height: 80px;
+    width: 150px;
+    vertical-align: middle;
+    font-size: 20px;
+    border-bottom: 3px solid rgb(0, 182, 255);
+    border-left: 1px solid rgba(128, 128, 128, 0.3);
+    border-right: 1px solid rgba(128, 128, 128, 0.3);
+}

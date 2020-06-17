@@ -1,6 +1,138 @@
 .Wrapper {
-    grid-area: content;
     text-align: center;
     min-width: 1200px;
-    min-height: 900px;
+    width: 100%;
+    max-width: 100%;
+    min-height: 510px;
+    height: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.PhotoBlock {
+    height: 100%;
+    width: 50%;
+    min-width: 400px;
+    position: absolute;
+    outline: 2px solid rgba(128, 128, 128, 0.3);
+}
+
+.Kitchen {
+    height: 90%;
+    width: 90%;
+    margin-top: 4%;
+}
+
+.Sq {
+    position: absolute;
+    bottom: 50px;
+    border-radius: 2px;
+    border: 1px solid white;
+}
+
+.InfoWrapper {
+    margin-top: 20px;
+}
+
+.InfoBlock {
+    height: 100%;
+    width: 50%;
+    min-width: 400px;
+    left: 50%;
+    position: absolute;
+    outline: 2px solid rgba(128, 128, 128, 0.3);
+}
+
+.InfoItem {
+    display: table;
+    margin: 5px 5px 5px 50px;
+    padding: 5px;
+    width: 70%;
+    font-size: 18px;
+}
+
+.InfoItemName {
+    display: table-cell;
+    text-align: left;
+    width: 150px;
+    vertical-align: middle;
+}
+
+.InfoItemText {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+    min-height: 30px;
+    width: 150px;
+    padding-left: 75px;
+}
+
+.InfoItemTextBorder {
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    padding: 4px 15px;
+    background-color: rgba(128, 128, 128, 0.05);
+}
+
+.LightColor {
+    margin-top: 30px;
+    width: 100%;
+    height: 70px;
+    display: table;
+}
+
+.InfoButton {
+    width: 75px;
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 50px;
+    color: white;
+    background-color: rgb(0, 171, 242);
+}
+
+.ColorChoose {
+    width: auto;
+    vertical-align: middle;
+    display: table-cell;
+    color: white;
+    font-size: 18px;
+    background-color: rgb(0, 182, 255);
+}
+
+.ImageField {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 30px 0;
+    margin: 15px auto 0;
+}
+
+.ImgWrapper {
+    position: relative;
+    display: table-cell;
+    border-radius: 6px;
+}
+
+.InfoImage {
+    width: 120px;
+    height: 75px;
+    border-radius: 3px;
+}
+
+.ImgText {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border-radius: 3px;
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    width: 110px;
+    font-size: 16px;
+    padding: 3px 5px;
+}
+
+.Tip {
+    border-radius: 2px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
 }
